@@ -3,7 +3,7 @@
 
 ---
 
-## 🧭 Table of Contents
+## 🧽 Table of Contents
 - [📌 About Me](#-about-me)
 - [🛠 Technical Toolkit](#-technical-toolkit)
 - [📂 Relevant Experience & Interests](#-relevant-experience--interests)
@@ -15,25 +15,25 @@
 
 ## 📌 About Me
 
-I'm a dedicated and driven ICT student at [Cape Peninsula University of Technology](https://www.cput.ac.za) with a passion for connecting people and solving business problems through technology.
+I am a committed ICT student at [Cape Peninsula University of Technology](https://www.cput.ac.za), passionate about translating business needs into effective tech solutions.
 
-💬 I enjoy engaging with clients, gathering requirements, and translating ideas into systems that work.  
-💡 I have a solid foundation in computer literacy, data management, software applications, and analytical thinking.  
-🚀 I thrive in collaborative settings and have worked on real-world academic projects involving stakeholder communication and solution delivery.
+- 💬 I work well in teams, value effective communication, and strive to stay aligned with stakeholders and project deadlines.
+- 🚀 My growth mindset helps me navigate new tools and languages beyond my comfort zone.
+- ✨ I'm inspired by the impact of technology on real lives, especially students seeking better services like housing or education support.
 
 ---
 
 ## 🛠 Technical Toolkit
 
 **Languages:**  
-☕ Java | 🐘 SQL | 🕸️ JavaScript
+☕ Java | 🐘 SQL | 🌟 JavaScript
 
 **Software & Tools:**  
-📊 MS Office Suite (Word, Excel, PowerPoint, Power BI)  
+📊 MS Office Suite (Excel, PowerPoint, Power BI)  
 🐙 Git & GitHub | 💻 NetBeans | 📝 VS Code
 
 **Skills:**  
-🗄️ Data Management | 💡 Problem-Solving | 🔍 Data Pattern Discovery  
+🗄️ Data Management | 💡 Technical Problem-Solving | 🔍 Insight Discovery  
 📈 Business Analysis | ⏰ Time Management | 🌟 Leadership  
 🗣️ Communication | 👥 Requirements Elicitation | ⚙️ Hardware Basics
 
@@ -41,28 +41,21 @@ I'm a dedicated and driven ICT student at [Cape Peninsula University of Technolo
 
 ## 📂 Relevant Experience & Interests
 
-- **📑 Data Entry & IT Support:**  
-  Supported system operations through database entry, monitoring, and basic troubleshooting.
-
-- **📊 Data & Business Analysis:**  
-  Enjoy extracting insights from data and turning business needs into structured IT requirements.
-
-- **🧠 Collaborative Development:**  
-  In my Applications Development module, I worked on GitHub-based projects with milestone planning, issue tracking, and peer reviews. I’ve led a team repository and managed project timelines.
-
-- **🖥️ Hardware Fundamentals:**  
-  Understanding of components like CPUs, motherboards, and system architecture — and always keen to learn more.
+- **📅 Data Entry & Support:**  Assisted with system operations and data recording.
+- **📊 Business & Data Analysis:**  Applied data tools and requirements-gathering techniques.
+- **🔧 GitHub Collaboration:**  Participated in team-based Git workflows, including issues, milestones, and pull requests.
+- **🛠 Hardware Knowledge:**  Gained familiarity with CPUs, motherboards, and network hardware.
 
 ---
 
 ## 🧾 Education & Certifications
 
-🎓 **Diploma in ICT**  
-Cape Peninsula University of Technology (3rd Year)  
-Modules: Information Systems, Business Analysis, Data Analytics, Applications Development
+**🎓 Diploma in ICT**  
+Cape Peninsula University of Technology – 3rd Year  
+Modules include: Business Analysis, Data Analytics, App Development, Information Systems
 
-🏫 **Bachelor Pass** – Kenilworth High School (2017–2021)  
-📜 **UMALUSI National Senior Certificate**
+**🏫 Kenilworth High School (2017–2021)**  
+📄 UMALUSI National Senior Certificate
 
 ---
 
@@ -78,18 +71,17 @@ Modules: Information Systems, Business Analysis, Data Analytics, Applications De
 
 ## 🤝 Let's Connect
 
-I’m currently open to opportunities in:
+I’m actively seeking opportunities in:
 
 - IT Support & Operations  
-- Data Analysis  
-- Business Analysis  
-- Entry-Level Software Development
+- Data or Business Analysis  
+- Entry-Level Java/SQL Development
 
-📫 Reach out to me:  
-📧 [tandiletazz@gmail.com](mailto:tandiletazz@gmail.com)  
-📱 060 491 5614  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here) <!-- Replace with your actual profile -->
+📧 Email: [tandiletazz@gmail.com](mailto:tandiletazz@gmail.com)  
+📞 Phone: 060 491 5614  
+🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-link-here)  
+📋 [View My CV](https://github.com/TylorTazz2024/TylorTazz2024/blob/main/Curriculum%20Vitae%20Of%20Tandile%20Malifethe.2.pdf)
 
 ---
 
-> _“The best way to learn is by building.”_
+> _"The best way to learn is by building."_
