@@ -9,6 +9,7 @@
 - [📂 Relevant Experience & Interests](#-relevant-experience--interests)
 - [🧾 Education & Certifications](#-education--certifications)
 - [📈 My GitHub Activity](#-my-github-activity)
+- [🎥 Video Artefacts](#-video-artefacts)
 - [🤝 Let's Connect](#-lets-connect)
 
 ---
@@ -66,6 +67,14 @@ Modules include: Business Analysis, Data Analytics, App Development, Information
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylorTazz2024&layout=compact&theme=radical" alt="TylorTazz2024 Top Languages"/>
 </p>
+
+---
+
+## 🎥 Video Artefacts
+
+- 📹 [Q3 Presentation](https://github.com/TylorTazz2024/TylorTazz2024/blob/main/QQQ3.mp4)
+- 📹 [Q5 Demo](https://github.com/TylorTazz2024/TylorTazz2024/blob/main/Q5.mp4)
+- 📹 [Q6 System Walkthrough](https://github.com/TylorTazz2024/TylorTazz2024/blob/main/Q6.mp4)
 
 ---
 
