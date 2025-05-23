@@ -1,3 +1,16 @@
+🧭 Table of Contents
+📌 About Me
+
+🛠 Technical Toolkit
+
+📂 Relevant Experience & Interests
+
+🧾 Education & Certifications
+
+📈 My GitHub Activity
+
+🤝 Let's Connect
+
 📌 About Me
 I am a dedicated, ambitious, and organized student currently pursuing a 3rd Year Diploma in Information Technology at Cape Peninsula University of Technology. I possess a strong work ethic and proficiency in Microsoft Office, coupled with a solid foundation in computer literacy, including data management, software applications, and technical problem-solving.
 
@@ -44,6 +57,6 @@ Software Development (with a focus on Java, SQL, JavaScript)
 
 📱 Phone: 060 491 5614
 
-🔗 LinkedIn: https://www.linkedin.com/in/tandile-malifethe-916972288/
+🔗 LinkedIn
 
 “The best way to learn is by building.”
