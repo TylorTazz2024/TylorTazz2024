@@ -1,63 +1,95 @@
-🧭 Table of Contents
+<h1 align="center">Hey there, I'm Tandile Malifethe 👋</h1>
+<p align="center">🎓 ICT Student | 💼 Aspiring Business Analyst | 🤝 Client-Centric Thinker | 💡 Always Learning</p>
 
-📌 About Me
+---
 
-🛠 Technical Toolkit
+## 🧭 Table of Contents
+- [📌 About Me](#-about-me)
+- [🛠 Technical Toolkit](#-technical-toolkit)
+- [📂 Relevant Experience & Interests](#-relevant-experience--interests)
+- [🧾 Education & Certifications](#-education--certifications)
+- [📈 My GitHub Activity](#-my-github-activity)
+- [🤝 Let's Connect](#-lets-connect)
 
-📂 Relevant Experience & Interests
+---
 
-🧾 Education & Certifications
+## 📌 About Me
 
-📈 My GitHub Activity
+I'm a dedicated and driven ICT student at [Cape Peninsula University of Technology](https://www.cput.ac.za) with a passion for connecting people and solving business problems through technology.
 
-🤝 Let's Connect
+💬 I enjoy engaging with clients, gathering requirements, and translating ideas into systems that work.  
+💡 I have a solid foundation in computer literacy, data management, software applications, and analytical thinking.  
+🚀 I thrive in collaborative settings and have worked on real-world academic projects involving stakeholder communication and solution delivery.
 
-📌 About Me
-I am a dedicated, ambitious, and organized student currently pursuing a 3rd Year Diploma in Information Technology at Cape Peninsula University of Technology. I possess a strong work ethic and proficiency in Microsoft Office, coupled with a solid foundation in computer literacy, including data management, software applications, and technical problem-solving.
+---
 
-I am eager to apply my theoretical knowledge in practical settings and contribute effectively to real-world projects, particularly in data analysis and business analysis. I thrive in collaborative environments, having gained experience in requirements elicitation and working closely with clients and stakeholders. My journey involves continuous learning, with a keen interest in finding data insights and patterns, and building a meaningful career in IT.
+## 🛠 Technical Toolkit
 
-🛠 Technical Toolkit
-Languages: ☕ Java | 🐘 SQL | 🕸️ JavaScript
-Software & Tools: 📊 Microsoft Office (Word, PowerPoint, Power BI, Excel) | 🐙 Git & GitHub | 💻 NetBeans | 📝 VS Code
-Skills: 🗄️ Data Management | 🖥️ Software Applications | 💡 Technical Problem-Solving | 🔍 Data Insights & Pattern Finding | 📈 Business Analysis | 🗣️ Effective Communication | 💪 Strong Analytical & Problem-Solving | ⏰ Organization & Time Management | 🌟 Leadership
+**Languages:**  
+☕ Java | 🐘 SQL | 🕸️ JavaScript
 
-📂 Relevant Experience & Interests
-Data Entry & IT Operations Support: Performed data entry tasks in information systems to support IT operations, including system monitoring, database management, and reporting functions.
+**Software & Tools:**  
+📊 MS Office Suite (Word, Excel, PowerPoint, Power BI)  
+🐙 Git & GitHub | 💻 NetBeans | 📝 VS Code
 
-Data & Business Analysis: Eager to find data insights and patterns as a data analyst, and to contribute as a business analyst.
+**Skills:**  
+🗄️ Data Management | 💡 Problem-Solving | 🔍 Data Pattern Discovery  
+📈 Business Analysis | ⏰ Time Management | 🌟 Leadership  
+🗣️ Communication | 👥 Requirements Elicitation | ⚙️ Hardware Basics
 
-Collaborative Development: Experienced in using GitHub for collaboration, managing milestones, and assigning issues, which has enhanced my collaborative skills and time management.
+---
 
-Computer Hardware Understanding: Possess a good fundamental understanding of computer hardware.
+## 📂 Relevant Experience & Interests
 
-🧾 Education & Certifications
-🎓 3rd Year Diploma in Information Technology – Cape Peninsula University of Technology
+- **📑 Data Entry & IT Support:**  
+  Supported system operations through database entry, monitoring, and basic troubleshooting.
 
-Relevant modules: Information Systems, Business Analysis, Data Analytics, Applications Development
+- **📊 Data & Business Analysis:**  
+  Enjoy extracting insights from data and turning business needs into structured IT requirements.
 
-🏫 Bachelor Pass – Kenilworth High School (2017-2021)
+- **🧠 Collaborative Development:**  
+  In my Applications Development module, I worked on GitHub-based projects with milestone planning, issue tracking, and peer reviews. I’ve led a team repository and managed project timelines.
 
-📜 UMALUSI Certificate
+- **🖥️ Hardware Fundamentals:**  
+  Understanding of components like CPUs, motherboards, and system architecture — and always keen to learn more.
 
-📈 My GitHub Activity
-🤝 Let's Connect
-I'm actively exploring internships, project collaborations, and opportunities in:
+---
 
-IT Support & Operations
+## 🧾 Education & Certifications
 
-Data Analysis
+🎓 **Diploma in ICT**  
+Cape Peninsula University of Technology (3rd Year)  
+Modules: Information Systems, Business Analysis, Data Analytics, Applications Development
 
-Business Analysis
+🏫 **Bachelor Pass** – Kenilworth High School (2017–2021)  
+📜 **UMALUSI National Senior Certificate**
 
-Software Development (with a focus on Java, SQL, JavaScript)
+---
 
-📫 Reach out:
+## 📈 My GitHub Activity
 
-📧 Email: tandiletazz@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TandileMalifethe&show_icons=true&theme=radical" alt="Tandile's GitHub stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TandileMalifethe&layout=compact&theme=radical" alt="Top languages"/>
+</p>
 
-📱 Phone: 060 491 5614
+---
 
-🔗 LinkedIn https://www.linkedin.com/in/tandile-malifethe-916972288/
+## 🤝 Let's Connect
 
-“The best way to learn is by building.”
+I’m currently open to opportunities in:
+
+- IT Support & Operations  
+- Data Analysis  
+- Business Analysis  
+- Entry-Level Software Development
+
+📫 Reach out to me:  
+📧 [tandiletazz@gmail.com](mailto:tandiletazz@gmail.com)  
+📱 060 491 5614  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here) <!-- Replace with your actual profile -->
+
+---
+
+> _“The best way to learn is by building.”_
