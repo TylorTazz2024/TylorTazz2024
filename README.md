@@ -4,9 +4,9 @@ I am a dedicated, ambitious, and organized student currently pursuing a 3rd Year
 I am eager to apply my theoretical knowledge in practical settings and contribute effectively to real-world projects, particularly in data analysis and business analysis. I thrive in collaborative environments, having gained experience in requirements elicitation and working closely with clients and stakeholders. My journey involves continuous learning, with a keen interest in finding data insights and patterns, and building a meaningful career in IT.
 
 🛠 Technical Toolkit
-Languages: Java | SQL | JavaScript
-Software & Tools: Microsoft Office (Word, PowerPoint, Power BI, Excel) | Git & GitHub | NetBeans | VS Code
-Skills: Data Management | Software Applications | Technical Problem-Solving | Data Insights & Pattern Finding | Business Analysis | Effective Communication | Strong Analytical & Problem-Solving | Organization & Time Management | Leadership
+Languages: ☕ Java | 🐘 SQL | 🕸️ JavaScript
+Software & Tools: 📊 Microsoft Office (Word, PowerPoint, Power BI, Excel) | 🐙 Git & GitHub | 💻 NetBeans | 📝 VS Code
+Skills: 🗄️ Data Management | 🖥️ Software Applications | 💡 Technical Problem-Solving | 🔍 Data Insights & Pattern Finding | 📈 Business Analysis | 🗣️ Effective Communication | 💪 Strong Analytical & Problem-Solving | ⏰ Organization & Time Management | 🌟 Leadership
 
 📂 Relevant Experience & Interests
 Data Entry & IT Operations Support: Performed data entry tasks in information systems to support IT operations, including system monitoring, database management, and reporting functions.
@@ -18,13 +18,13 @@ Collaborative Development: Experienced in using GitHub for collaboration, managi
 Computer Hardware Understanding: Possess a good fundamental understanding of computer hardware.
 
 🧾 Education & Certifications
-3rd Year Diploma in Information Technology – Cape Peninsula University of Technology
+🎓 3rd Year Diploma in Information Technology – Cape Peninsula University of Technology
 
 Relevant modules: Information Systems, Business Analysis, Data Analytics, Applications Development
 
-Bachelor Pass – Kenilworth High School (2017-2021)
+🏫 Bachelor Pass – Kenilworth High School (2017-2021)
 
-UMALUSI Certificate
+📜 UMALUSI Certificate
 
 📈 My GitHub Activity
 🤝 Let's Connect
@@ -40,10 +40,10 @@ Software Development (with a focus on Java, SQL, JavaScript)
 
 📫 Reach out:
 
-Email: tandiletazz@gmail.com
+📧 Email: tandiletazz@gmail.com
 
-Phone: 060 491 5614
+📱 Phone: 060 491 5614
 
-LinkedIn: https://www.linkedin.com/in/tandile-malifethe-916972288/
+🔗 LinkedIn: https://www.linkedin.com/in/tandile-malifethe-916972288/
 
 “The best way to learn is by building.”
