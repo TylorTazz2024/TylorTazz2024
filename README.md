@@ -69,9 +69,9 @@ Modules: Information Systems, Business Analysis, Data Analytics, Applications De
 ## 📈 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TandileMalifethe&show_icons=true&theme=radical" alt="Tandile's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TylorTazz2024&show_icons=true&theme=radical" alt="TylorTazz2024 GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TandileMalifethe&layout=compact&theme=radical" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylorTazz2024&layout=compact&theme=radical" alt="TylorTazz2024 Top Languages"/>
 </p>
 
 ---
