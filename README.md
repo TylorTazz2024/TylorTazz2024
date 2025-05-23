@@ -72,6 +72,7 @@ Modules include: Business Analysis, Data Analytics, App Development, Information
 
 ## 🎥 Video Artefacts
 
+- 📹 [CV Tutorial Video](https://github.com/wil-it2025/cv-tutorial-TylorTazz2024/blob/main/Tandile%20Malifethe%20222602511%20(1).mp4)
 - 📹 [Q3 Presentation](https://github.com/TylorTazz2024/TylorTazz2024/blob/main/QQQ3.mp4)
 - 📹 [Q5 Demo](https://github.com/TylorTazz2024/TylorTazz2024/blob/main/Q5.mp4)
 - 📹 [Q6 System Walkthrough](https://github.com/TylorTazz2024/TylorTazz2024/blob/main/Q6.mp4)
