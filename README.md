@@ -58,6 +58,6 @@ Software Development (with a focus on Java, SQL, JavaScript)
 
 📱 Phone: 060 491 5614
 
-🔗 LinkedIn
+🔗 LinkedIn https://www.linkedin.com/in/tandile-malifethe-916972288/
 
 “The best way to learn is by building.”
