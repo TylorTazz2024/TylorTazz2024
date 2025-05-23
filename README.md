@@ -89,7 +89,7 @@ I’m actively seeking opportunities in:
 
 📧 Email: [tandiletazz@gmail.com](mailto:tandiletazz@gmail.com)  
 📞 Phone: 060 491 5614  
-🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-link-here)  
+🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/tandile-malifethe-05b867246/)  
 📋 [View My CV](https://github.com/TylorTazz2024/TylorTazz2024/blob/main/Curriculum%20Vitae%20Of%20Tandile%20Malifethe.2.pdf)
 
 ---
