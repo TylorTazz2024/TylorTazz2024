@@ -58,6 +58,9 @@ Modules include: Business Analysis, Data Analytics, App Development, Information
 **🏫 Kenilworth High School (2017–2021)**  
 📄 UMALUSI National Senior Certificate
 
+**🏅 Certificate of Completion:**  
+📑 [Craft a Great GitHub Profile](https://github.com/TylorTazz2024/TylorTazz2024/blob/main/CertificateOfCompletion_Craft%20a%20Great%20GitHub%20Profile.pdf)
+
 ---
 
 ## 📈 My GitHub Activity
