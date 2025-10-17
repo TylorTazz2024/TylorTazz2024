@@ -21,80 +21,81 @@
 ## 📌 About Me
 
 I’m an ICT student at the [Cape Peninsula University of Technology](https://www.cput.ac.za), majoring in **Applications Development** with electives in **Data Analytics, Business Analysis, and Information Systems**.  
-I’m passionate about designing solutions that merge functionality with business impact. My goal is to bridge the gap between users and technology by developing innovative, user-friendly applications.
+I’m passionate about developing innovative software solutions that solve real-world problems while aligning with business objectives.  
+My focus is on continuous learning, adaptability, and contributing meaningfully to digital innovation.
 
 ---
 
 ## 💬 Business Communication  
 
-### 🧾 **Evidence (10%)**
+### 🧾 **Evidence**
 - Presentation and report writing samples from coursework.  
 - Team-based documentation and requirements specifications using MS Word and Google Docs.  
 - [📹 CV Tutorial Video](https://github.com/wil-it2025/cv-tutorial-TylorTazz2024/blob/main/Tandile%20Malifethe%20222602511%20(1).mp4)
 
-### 💡 **Reflection (STAR – 10%)**
+### 💡 **Reflection (STAR)**
 **Situation:** During project presentations, I needed to communicate technical concepts to non-technical stakeholders.  
-**Task:** Ensure that my message was clear, professional, and well-structured.  
-**Action:** I developed detailed slides, summarized key findings, and practiced active listening during feedback sessions.  
-**Result:** Improved my ability to convey information effectively and professionally, both verbally and in writing.
+**Task:** Deliver my ideas clearly and professionally while maintaining audience engagement.  
+**Action:** I used structured slides, concise summaries, and practiced confident speaking.  
+**Result:** My presentation and written communication improved, strengthening my ability to convey technical details effectively.
 
 ---
 
 ## 🗣️ Interview Skills  
 
-### 🧾 **Evidence (10%)**
+### 🧾 **Evidence**
 - Completed interview preparation exercises as part of work readiness training.  
-- Developed and practiced responses to common ICT-related interview questions.  
+- Developed and practiced responses to ICT-related interview questions.
 
-### 💡 **Reflection (STAR – 10%)**
-**Situation:** Preparing for mock interviews that simulated real job scenarios.  
-**Task:** Identify key strengths and experiences to discuss confidently.  
-**Action:** I used the STAR method to structure responses around my project work and coursework.  
-**Result:** Enhanced my interview confidence, articulation, and understanding of how to present myself professionally.
+### 💡 **Reflection (STAR)**
+**Situation:** Preparing for mock interviews that mirrored real workplace settings.  
+**Task:** Identify and communicate my key skills and experiences with clarity.  
+**Action:** I used the STAR method to structure my responses around academic and project experiences.  
+**Result:** Gained confidence in expressing my strengths and handling professional interviews more effectively.
 
 ---
 
 ## 🎤 Mock Interview  
 
-### 🧾 **Evidence (10%)**
+### 🧾 **Evidence**
 - [📹 Mock Interview Video](https://github.com/TylorTazz2024/TylorTazz2024/blob/main/Q5.mp4)  
-- Feedback reports highlighting professional appearance, tone, and response structure.  
+- Feedback from lecturer and peers highlighting communication style and professionalism.
 
-### 💡 **Reflection (STAR – 10%)**
-**Situation:** Participated in a recorded mock interview focused on ICT roles.  
-**Task:** Demonstrate readiness for a real job interview through professional conduct and clear communication.  
-**Action:** I prepared thoroughly, dressed appropriately, and practiced confident body language.  
-**Result:** Received valuable feedback that improved my composure, clarity, and professional etiquette during interviews.
+### 💡 **Reflection (STAR)**
+**Situation:** Took part in a recorded mock interview as part of my work readiness program.  
+**Task:** Demonstrate professionalism and technical awareness during interview responses.  
+**Action:** Prepared by researching common ICT interview questions and practicing with peers.  
+**Result:** Improved composure, tone, and interview readiness for future employment opportunities.
 
 ---
 
 ## 🤝 Professional Networking  
 
-### 🧾 **Evidence (10%)**
+### 🧾 **Evidence**
 - Created a professional [LinkedIn Profile](https://www.linkedin.com/in/tandile-malifethe-05b867246/).  
 - Connected with peers, ICT professionals, and mentors.  
-- Shared academic and GitHub achievements to enhance digital presence.  
+- Shared project updates and academic achievements to build visibility.
 
-### 💡 **Reflection (STAR – 10%)**
-**Situation:** I needed to establish an online professional identity to connect with the ICT community.  
-**Task:** Build and maintain a LinkedIn profile showcasing my academic and technical accomplishments.  
-**Action:** Highlighted projects, certifications, and key ICT competencies.  
-**Result:** Strengthened my professional network and gained visibility within the technology and business analysis fields.
+### 💡 **Reflection (STAR)**
+**Situation:** Wanted to build a professional digital identity and connect with industry peers.  
+**Task:** Create a profile that reflects my career goals, academic background, and skills.  
+**Action:** Developed a LinkedIn profile highlighting key projects, achievements, and interests.  
+**Result:** Expanded my professional network and improved awareness of ICT career opportunities.
 
 ---
 
 ## 🏢 Workplace Etiquette  
 
-### 🧾 **Evidence (10%)**
-- Participated in group projects that emphasized teamwork, reliability, and professionalism.  
-- Practiced punctuality, collaboration, and task accountability.  
+### 🧾 **Evidence**
+- Participated in class discussions and team projects emphasizing collaboration and professionalism.  
+- Practiced punctuality, reliability, and respectful communication.  
 - [📹 Q6 System Walkthrough](https://github.com/TylorTazz2024/TylorTazz2024/blob/main/Q6.mp4)
 
-### 💡 **Reflection (STAR – 10%)**
-**Situation:** Collaborated in a software development team for an academic project.  
-**Task:** Maintain professionalism and effective communication under deadlines.  
-**Action:** Contributed to coding, task organization, and conflict resolution while ensuring respect and inclusion.  
-**Result:** Gained a stronger sense of accountability and teamwork, essential for the professional workplace.
+### 💡 **Reflection (STAR)**
+**Situation:** Collaborated with a team on a software development project under tight deadlines.  
+**Task:** Maintain a positive attitude and professionalism while ensuring project success.  
+**Action:** Practiced active listening, provided constructive feedback, and supported team members.  
+**Result:** Developed stronger teamwork, leadership, and adaptability skills for future workplace environments.
 
 ---
 
@@ -110,16 +111,16 @@ I’m passionate about designing solutions that merge functionality with busines
 **Skills:**  
 🧱 Application Development | 🗄️ Data Management | 💡 Problem-Solving | 🔍 Analytical Thinking  
 📈 Business Analysis | ⏰ Time Management | 🌟 Leadership  
-🗣️ Communication | 👥 Requirements Elicitation | ⚙️ Hardware Basics  
+🗣️ Communication | 👥 Requirements Elicitation | ⚙️ Hardware & Networking Basics  
 
 ---
 
 ## 📂 Experience & Interests  
 
-- **💻 Application Development:** Designed and implemented Java-based systems with database integration.  
-- **📊 Data & Business Analysis:** Applied analytical tools to interpret data and derive insights.  
-- **🧩 GitHub Collaboration:** Experienced in using branches, pull requests, and issue tracking.  
-- **🖥 ICT Fundamentals:** Familiar with computer hardware, networking, and troubleshooting.  
+- **💻 Application Development:** Designed and built Java-based applications integrating SQL databases.  
+- **📊 Data & Business Analysis:** Used analytical tools to extract and interpret patterns in datasets.  
+- **🧩 GitHub Collaboration:** Managed repositories using version control best practices.  
+- **🖥 ICT Foundations:** Understanding of computer systems, troubleshooting, and hardware configurations.  
 
 ---
 
