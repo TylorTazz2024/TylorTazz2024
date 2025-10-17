@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Tandile Malifethe 👋</h1>
-<p align="center">🎓 ICT Student | 💼 Aspiring Business Analyst | 🤝 Client-Centric Thinker | 💡 Always Learning</p>
+<p align="center">🎓 ICT Student (Applications Development Major) | 💼 Aspiring Business Analyst | 🤝 Client-Centric Thinker | 💡 Always Learning</p>
 
 ---
 
@@ -20,8 +20,8 @@
 
 ## 📌 About Me
 
-I’m an ICT student at the [Cape Peninsula University of Technology](https://www.cput.ac.za), passionate about connecting business processes with technology-driven solutions.  
-My focus is on learning continuously, adapting quickly, and contributing meaningfully to digital innovation.
+I’m an ICT student at the [Cape Peninsula University of Technology](https://www.cput.ac.za), majoring in **Applications Development** with electives in **Data Analytics, Business Analysis, and Information Systems**.  
+I’m passionate about designing solutions that merge functionality with business impact. My goal is to bridge the gap between users and technology by developing innovative, user-friendly applications.
 
 ---
 
@@ -29,28 +29,28 @@ My focus is on learning continuously, adapting quickly, and contributing meaning
 
 ### 🧾 **Evidence (10%)**
 - Presentation and report writing samples from coursework.  
-- Team-based documentation and requirement specifications using MS Word and Google Docs.  
+- Team-based documentation and requirements specifications using MS Word and Google Docs.  
 - [📹 CV Tutorial Video](https://github.com/wil-it2025/cv-tutorial-TylorTazz2024/blob/main/Tandile%20Malifethe%20222602511%20(1).mp4)
 
 ### 💡 **Reflection (STAR – 10%)**
-**Situation:** During project presentations, I needed to communicate technical solutions to non-technical audiences.  
-**Task:** Ensure clarity, confidence, and professionalism while presenting findings.  
-**Action:** I used structured slides, concise summaries, and maintained eye contact to enhance delivery.  
-**Result:** Received positive feedback from peers and lecturers, improving my written and verbal business communication.
+**Situation:** During project presentations, I needed to communicate technical concepts to non-technical stakeholders.  
+**Task:** Ensure that my message was clear, professional, and well-structured.  
+**Action:** I developed detailed slides, summarized key findings, and practiced active listening during feedback sessions.  
+**Result:** Improved my ability to convey information effectively and professionally, both verbally and in writing.
 
 ---
 
 ## 🗣️ Interview Skills  
 
 ### 🧾 **Evidence (10%)**
-- Completed interview preparation exercises during work readiness training.  
-- Developed interview responses emphasizing personal strengths and ICT knowledge.  
+- Completed interview preparation exercises as part of work readiness training.  
+- Developed and practiced responses to common ICT-related interview questions.  
 
 ### 💡 **Reflection (STAR – 10%)**
-**Situation:** Preparing for mock interviews during training sessions.  
-**Task:** Identify potential interview questions and practice structured responses.  
-**Action:** I used the STAR technique to organize answers around my project experiences and academic learning.  
-**Result:** Improved confidence, body language, and ability to express myself clearly under pressure.
+**Situation:** Preparing for mock interviews that simulated real job scenarios.  
+**Task:** Identify key strengths and experiences to discuss confidently.  
+**Action:** I used the STAR method to structure responses around my project work and coursework.  
+**Result:** Enhanced my interview confidence, articulation, and understanding of how to present myself professionally.
 
 ---
 
@@ -58,13 +58,13 @@ My focus is on learning continuously, adapting quickly, and contributing meaning
 
 ### 🧾 **Evidence (10%)**
 - [📹 Mock Interview Video](https://github.com/TylorTazz2024/TylorTazz2024/blob/main/Q5.mp4)  
-- Feedback summary from lecturer and peers on communication and professional posture.  
+- Feedback reports highlighting professional appearance, tone, and response structure.  
 
 ### 💡 **Reflection (STAR – 10%)**
-**Situation:** Participated in a recorded mock interview simulating a real job scenario.  
-**Task:** Respond to technical and behavioural questions professionally.  
-**Action:** I dressed appropriately, maintained composure, and structured responses logically.  
-**Result:** Gained awareness of my strengths (clarity and confidence) and areas to refine (conciseness and tone control).
+**Situation:** Participated in a recorded mock interview focused on ICT roles.  
+**Task:** Demonstrate readiness for a real job interview through professional conduct and clear communication.  
+**Action:** I prepared thoroughly, dressed appropriately, and practiced confident body language.  
+**Result:** Received valuable feedback that improved my composure, clarity, and professional etiquette during interviews.
 
 ---
 
@@ -72,29 +72,29 @@ My focus is on learning continuously, adapting quickly, and contributing meaning
 
 ### 🧾 **Evidence (10%)**
 - Created a professional [LinkedIn Profile](https://www.linkedin.com/in/tandile-malifethe-05b867246/).  
-- Connected with ICT professionals, peers, and mentors.  
-- Shared reflections and project updates to build a digital presence.  
+- Connected with peers, ICT professionals, and mentors.  
+- Shared academic and GitHub achievements to enhance digital presence.  
 
 ### 💡 **Reflection (STAR – 10%)**
-**Situation:** Needed to build a professional identity online.  
-**Task:** Develop a profile that reflects my skills and career goals.  
-**Action:** I showcased my GitHub projects, academic achievements, and certifications on LinkedIn.  
-**Result:** Enhanced my employability visibility and began engaging with professionals in the ICT field.
+**Situation:** I needed to establish an online professional identity to connect with the ICT community.  
+**Task:** Build and maintain a LinkedIn profile showcasing my academic and technical accomplishments.  
+**Action:** Highlighted projects, certifications, and key ICT competencies.  
+**Result:** Strengthened my professional network and gained visibility within the technology and business analysis fields.
 
 ---
 
 ## 🏢 Workplace Etiquette  
 
 ### 🧾 **Evidence (10%)**
-- Participated in class discussions on professionalism and digital conduct.  
-- Practiced punctuality, collaboration, and respectful communication in team projects.  
+- Participated in group projects that emphasized teamwork, reliability, and professionalism.  
+- Practiced punctuality, collaboration, and task accountability.  
 - [📹 Q6 System Walkthrough](https://github.com/TylorTazz2024/TylorTazz2024/blob/main/Q6.mp4)
 
 ### 💡 **Reflection (STAR – 10%)**
-**Situation:** Worked in a team environment where mutual respect and deadlines were essential.  
-**Task:** Maintain professional behaviour, time management, and accountability.  
-**Action:** Communicated effectively, supported teammates, and prioritized tasks to meet submission timelines.  
-**Result:** Improved teamwork, leadership, and adaptability—traits vital for the modern ICT workplace.
+**Situation:** Collaborated in a software development team for an academic project.  
+**Task:** Maintain professionalism and effective communication under deadlines.  
+**Action:** Contributed to coding, task organization, and conflict resolution while ensuring respect and inclusion.  
+**Result:** Gained a stronger sense of accountability and teamwork, essential for the professional workplace.
 
 ---
 
@@ -108,7 +108,7 @@ My focus is on learning continuously, adapting quickly, and contributing meaning
 🐙 Git & GitHub | 💻 NetBeans | 📝 VS Code  
 
 **Skills:**  
-🗄️ Data Management | 💡 Problem-Solving | 🔍 Insight Discovery  
+🧱 Application Development | 🗄️ Data Management | 💡 Problem-Solving | 🔍 Analytical Thinking  
 📈 Business Analysis | ⏰ Time Management | 🌟 Leadership  
 🗣️ Communication | 👥 Requirements Elicitation | ⚙️ Hardware Basics  
 
@@ -116,17 +116,18 @@ My focus is on learning continuously, adapting quickly, and contributing meaning
 
 ## 📂 Experience & Interests  
 
-- **📊 Business & Data Analysis:** Used SQL and Excel to explore and visualize datasets.  
-- **🧩 GitHub Collaboration:** Managed repositories using issues, branches, and pull requests.  
-- **🖥 Hardware Familiarity:** Understanding of CPUs, motherboards, and network components.  
+- **💻 Application Development:** Designed and implemented Java-based systems with database integration.  
+- **📊 Data & Business Analysis:** Applied analytical tools to interpret data and derive insights.  
+- **🧩 GitHub Collaboration:** Experienced in using branches, pull requests, and issue tracking.  
+- **🖥 ICT Fundamentals:** Familiar with computer hardware, networking, and troubleshooting.  
 
 ---
 
 ## 🎓 Education & Certifications  
 
-**🎓 Diploma in ICT (3rd Year)**  
+**🎓 Diploma in ICT (Applications Development Major)**  
 _Cape Peninsula University of Technology_  
-Modules: Business Analysis | Data Analytics | App Development | Information Systems  
+**Electives:** Data Analytics | Business Analysis | Information Systems  
 
 **🏫 Kenilworth High School (2017–2021)**  
 📄 UMALUSI National Senior Certificate  
